@@ -1,2 +1,3 @@
 # hello-github
-The repository
+
+This repository is the first one created by Riose70...
